@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruync",
+        "uuid": 6690285,
+        "checksum": "z2zmfa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
